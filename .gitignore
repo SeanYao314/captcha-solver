@@ -1,2 +1,10 @@
 .venv/
+*.jpg
+*.jpeg
+*.txt
+CTC/IAM_Words/
+*.png
+*.csv
+
+
 
